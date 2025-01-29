@@ -1,0 +1,5 @@
+module rectHelloWorld
+typeinfo apprectHelloWorld.qmltypes
+prefer :/qt/qml/rectHelloWorld/
+Main 1.0 Main.qml
+

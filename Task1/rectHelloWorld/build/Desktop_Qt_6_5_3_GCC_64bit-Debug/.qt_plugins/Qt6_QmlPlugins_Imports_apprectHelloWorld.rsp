@@ -1,0 +1,14 @@
+-rootPath
+/home/mariam/EmbeddedLinuxAnas/QT6.5/QT_projects/rectHelloWorld
+-cmake-output
+-output-file
+/home/mariam/EmbeddedLinuxAnas/QT6.5/QT_projects/rectHelloWorld/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_apprectHelloWorld.cmake
+-importPath
+/home/mariam/EmbeddedLinuxAnas/QT6.5/QT_projects/rectHelloWorld/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/rectHelloWorld
+-importPath
+/home/mariam/EmbeddedLinuxAnas/QT6.5/QT_projects/rectHelloWorld/build/Desktop_Qt_6_5_3_GCC_64bit-Debug
+-importPath
+/home/mariam/EmbeddedLinuxAnas/QT6.5/6.5.3/gcc_64/./qml
+-qrcFiles
+/home/mariam/EmbeddedLinuxAnas/QT6.5/QT_projects/rectHelloWorld/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.rcc/qmake_rectHelloWorld.qrc
+/home/mariam/EmbeddedLinuxAnas/QT6.5/QT_projects/rectHelloWorld/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.rcc/apprectHelloWorld_raw_qml_0.qrc

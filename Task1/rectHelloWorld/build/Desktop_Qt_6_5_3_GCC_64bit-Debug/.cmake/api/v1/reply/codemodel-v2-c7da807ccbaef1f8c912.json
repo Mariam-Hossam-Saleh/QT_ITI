@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-48b910e328603461314f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "rectHelloWorld",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-af77d494f8503b4dbb7c.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-2746d93c525caaaf82c7.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-8459dd636d3939297572.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-db3e62ae24e65a49647a.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apprectHelloWorld::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apprectHelloWorld-Debug-75d5dcd2caecd5fb2fd4.json",
+					"name" : "apprectHelloWorld",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apprectHelloWorld_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apprectHelloWorld_autogen-Debug-79f38f6215a8287c3556.json",
+					"name" : "apprectHelloWorld_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apprectHelloWorld_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apprectHelloWorld_autogen_timestamp_deps-Debug-f499bb3db1051853af6b.json",
+					"name" : "apprectHelloWorld_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apprectHelloWorld_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apprectHelloWorld_qmlimportscan-Debug-63a32fdbfcf39a115265.json",
+					"name" : "apprectHelloWorld_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apprectHelloWorld_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apprectHelloWorld_qmllint-Debug-6907fd556cb6f3fea91a.json",
+					"name" : "apprectHelloWorld_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apprectHelloWorld_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apprectHelloWorld_qmllint_json-Debug-3c4f41d5da6884f6df5d.json",
+					"name" : "apprectHelloWorld_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apprectHelloWorld_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apprectHelloWorld_qmllint_module-Debug-51d5d0c70967538f4015.json",
+					"name" : "apprectHelloWorld_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apprectHelloWorld_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apprectHelloWorld_qmltyperegistration-Debug-86f55679804724f48a93.json",
+					"name" : "apprectHelloWorld_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apprectHelloWorld_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apprectHelloWorld_tooling-Debug-da037ec41a5cf9c06a55.json",
+					"name" : "apprectHelloWorld_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mariam/EmbeddedLinuxAnas/QT6.5/QT_projects/rectHelloWorld/build/Desktop_Qt_6_5_3_GCC_64bit-Debug",
+		"source" : "/home/mariam/EmbeddedLinuxAnas/QT6.5/QT_projects/rectHelloWorld"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

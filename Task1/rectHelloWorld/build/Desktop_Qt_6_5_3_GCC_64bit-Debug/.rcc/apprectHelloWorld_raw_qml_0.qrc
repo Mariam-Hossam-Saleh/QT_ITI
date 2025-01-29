@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/rectHelloWorld/">
+    <file alias="Main.qml">/home/mariam/EmbeddedLinuxAnas/QT6.5/QT_projects/rectHelloWorld/Main.qml</file>
+  </qresource>
+</RCC>
+
