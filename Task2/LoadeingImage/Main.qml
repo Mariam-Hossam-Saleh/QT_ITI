@@ -63,8 +63,8 @@ Window {
         anchors.fill: parent
         Image {
             id: img1ID
-            height:  400
-            width: 600
+            height: 600
+            width: 800
             y: windowID.height/6
             x: windowID.width/2 - (width/2)
             source: "file:ivi.jpg"
@@ -83,8 +83,8 @@ Window {
         anchors.fill: parent
         Image {
             id: img2ID
-            height:  400
-            width: 600
+            height: 600
+            width: 800
             y: windowID.height/6
             x: windowID.width/2 - (width/2)
             source: "file:/home/mariam/Downloads/vehicle.jpg"
@@ -103,8 +103,8 @@ Window {
         anchors.fill: parent
         Image {
             id: img3ID
-            height:  400
-            width: 600
+            height: 600
+            width: 800
             y: windowID.height/6
             x: windowID.width/2 - (width/2)
             source: "qrc:/images/car1.png"
@@ -123,8 +123,8 @@ Window {
         anchors.fill: parent
         Image {
             id: img4ID
-            height:  400
-            width: 600
+            height: 600
+            width: 800
             y: windowID.height/6
             x: windowID.width/2 - (width/2)
             source: "https://www.nuvisionautoglass.com/wp-content/uploads/2024/09/ADAS-in-Cars.webp"
